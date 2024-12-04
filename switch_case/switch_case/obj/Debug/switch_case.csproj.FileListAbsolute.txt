@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\bin\Debug\switch_case.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\bin\Debug\switch_case.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\switch_case\switch_case\obj\Debug\switch_case.pdb

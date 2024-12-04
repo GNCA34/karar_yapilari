@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\bin\Debug\if_else.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\bin\Debug\if_else.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\bin\Debug\if_else.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\if_else\if_else\obj\Debug\if_else.pdb

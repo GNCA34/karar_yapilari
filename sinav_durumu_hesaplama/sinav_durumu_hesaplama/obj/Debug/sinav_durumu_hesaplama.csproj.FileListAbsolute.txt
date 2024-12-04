@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\bin\Debug\sinav_durumu_hesaplama.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\bin\Debug\sinav_durumu_hesaplama.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\bin\Debug\sinav_durumu_hesaplama.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\sinav_durumu_hesaplama\sinav_durumu_hesaplama\obj\Debug\sinav_durumu_hesaplama.pdb

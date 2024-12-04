@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\bin\Debug\alisveris_indirim.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\bin\Debug\alisveris_indirim.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\bin\Debug\alisveris_indirim.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Karar Yapilari\alisveris_indirim\alisveris_indirim\obj\Debug\alisveris_indirim.pdb
